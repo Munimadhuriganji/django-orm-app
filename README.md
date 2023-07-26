@@ -72,4 +72,6 @@ class StudentAdmin(admin.ModelAdmin):
 
 ### error:
 ![error](error.png)
+
 ## RESULT
+This program is executed successfully.
