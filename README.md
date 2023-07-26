@@ -39,8 +39,6 @@ To develop a Django application to store and retrieve data from a database using
 
 ### STEP 15: Once exited from the server, type the codes necessary for pushing the files into the GitHub repository.
 
-Write your own steps
-
 ## PROGRAM
 ### admin.py
 ```py
